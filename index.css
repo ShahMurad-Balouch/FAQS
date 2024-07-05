@@ -1,0 +1,42 @@
+.main-containerSec{
+    display: flex;
+    justify-content: center;
+
+}
+.display-container{
+    background-color: beige;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    
+}
+
+.main-container{
+    width: 70%;
+}
+.display-container > span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+.question-container{
+    margin: 10px;
+}
+.sign {
+  float: right;
+}
+.creatingnumber{
+    float: left;
+}
+.answer-container{
+    /* margin: 30px; 
+    */
+    /* display: none; */
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+.style {
+    border-top: 2px solid rgb(92, 136, 27);
+}
